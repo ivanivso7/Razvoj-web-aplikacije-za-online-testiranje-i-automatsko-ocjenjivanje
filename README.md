@@ -29,7 +29,6 @@ Aplikacija je zatim dostupna na adresi `http://localhost:3000`. Naredbu `npm run
 
 Novi korisnik izrađuje studentski račun putem kartice **Registracija**. Uloga se čuva u bazi i ne može se samostalno mijenjati. Profesor može naknadno dodijeliti drugom korisniku ulogu profesora.
 
-Početni profesorski račun za administraciju projekta je `profesor@znanjeplus.hr` / `Profesor123!`. Njegovi podaci nisu prikazani na prijavnoj stranici.
 
 ## Produkcijska provjera
 
